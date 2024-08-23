@@ -76,7 +76,7 @@ boxes.forEach((box) => {
     };
     const showDraw =()=>{
    
-        msg.innerText = `The GAME IS DRAW `;
+        msg.innerText = `THE GAME IS DRAW `;
         msgContainer.classList.remove("hide");
     
 };
