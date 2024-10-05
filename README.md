@@ -2,7 +2,7 @@ Tic Tac Toe Game
 
 Developer: Sanket Vijay Munjewar
 
-🛠️ Technologies Used: HTML CSS Bootstrap
+🛠️ Technologies Used: HTML CSS JavaScript
 
 ![1](https://github.com/user-attachments/assets/aac524eb-45ca-490a-b095-aa8ee18776a9)
 ![2](https://github.com/user-attachments/assets/507f37ec-a1cd-4cce-a4f7-e241bb2dd9b5)
